@@ -1,7 +1,9 @@
 {
   "tasks": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "title": "Curatenie in casa", "description": "sa dau cu aspiratorul si sa sterg praful" },
+    { "title": "Cumparaturi", "description": "sa cumpar fructe si ingrediente pentru tort" },
+    { "title": "Dentist", "description": "sa o duc pe fiica mea la dentist" },
+    { "title": "Rezervare", "description": "sa fac o rezervare la restaurant" },
+    { "title": "Cadou", "description": "sa cumpar un cadou pentru fiul meu" }
   ]
 }
